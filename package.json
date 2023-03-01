@@ -38,8 +38,8 @@
     "chalk": "4.0.0",
     "event-stream": "4.0.1",
     "isbinaryfile": "4.0.6",
-    "minimatch": "3.0.4",
-    "minimist": "1.2.5",
+    "minimatch": "7.4.0",
+    "minimist": "1.2.8",
     "readdirp": "3.4.0"
   },
   "devDependencies": {}
